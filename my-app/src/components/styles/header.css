@@ -1,0 +1,26 @@
+p,h1,h2,h3,h4{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.header-body{
+    background: #ffb005;
+    height: 70px;
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.header-title{
+    color: white;
+}
+
+.header-profile{
+    width: 50px;
+    height: 50px;
+    background:#fff;
+    margin: 0 10px 0 0;
+    border-radius: 50%;
+}
