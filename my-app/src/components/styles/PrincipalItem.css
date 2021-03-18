@@ -1,0 +1,35 @@
+@media only screen and (max-width:600px){
+    .main-body{
+        width: 90%;
+        height: 200px;
+        background: #fff;
+        margin: 35px 5% 35px 5%;
+        border-radius: 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .main-margem{
+        display: flex;
+        justify-content:space-between;
+        align-items: center;
+        height: 90%;
+        width: 95%;
+        position: relative;
+    }
+    .main-image{
+        width: 180px;
+        height: 100%;
+        background: chartreuse;
+    }
+    .main-rating-body{
+        height: 100%;
+        width: 50%;
+    }
+    .main-rating{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+    }
+}
